@@ -31,7 +31,7 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 # English Version
 
-Welcome to the Estudos Python DIO repository! This repository showcases my Python studies and projects.
+Welcome to the Estudos-Python-DIO repository! This repository showcases my Python studies and projects.
 
 ## Description📚
 
