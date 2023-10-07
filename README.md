@@ -27,7 +27,7 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 - Email: marcelo.buch12@gmail.com📥
 - LinkedIn: https://www.linkedin.com/in/marcelo-buchalowicz/ ✉️
 
-
+---
 
 # English version
 
